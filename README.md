@@ -1,3 +1,3 @@
 # CClient
 
-Creates custom TLS handshake, parroting chrome 93
+Creates custom TLS handshake, parroting chrome 100
