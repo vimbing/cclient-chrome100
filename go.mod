@@ -1,4 +1,4 @@
-module github.com/vimbing/cclient
+module github.com/vimbing/cclient-chrome100
 
 go 1.16
 
